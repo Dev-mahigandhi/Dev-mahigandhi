@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm DEVLOPER-Mahi_gandhi.</h1>
 <h3 align="center">A passionate "TECH" learner from gujarat(INDIA)</h3>
 
-- 🌱 I’m currently learning **WEB_DEVLOPMENT**
+- 🌱 I’m currently learning **WEB_DEVLOPMENT,DATA STRUCTURE AND ALOGORITHM WITH C++**
 
-- 📫 How to reach me **mahigandhi1807@gmail.com**
+- 📫 TRY TO REACH ME AT **mahigandhi1807@gmail.com**
 
-- ⚡ Fun fact **I REALLY LIKE ALL ABOUT DEV**
+- ⚡ FUN FACT **I REALLY LIKE ALL ABOUT DEV**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">SECRET SOURCE : spaceship🧑‍💻</h3>
 <p align="left">
 </p>
 
